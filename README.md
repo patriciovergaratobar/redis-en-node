@@ -1,5 +1,5 @@
 # redis-en-node
-Este repositorio contiene ejemplos de uso de redi con node js
+Este repositorio contiene ejemplos de uso de redis con node js
 
 ## Instalar Libreria de redis
 
@@ -16,6 +16,6 @@ node publicador.js
 y en otro terminal ejecutar
 node subcriptor.js 
 
-El codigo de estos dos ejemplo se encuentran comentados. 
+El código de estos dos ejemplo se encuentran comentados. 
 
 
